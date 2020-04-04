@@ -1,1 +1,1 @@
-# Homework
+# Homework This is my first homework submission.  I changed the title of the website and added a lot of alts to the pictures.  I did research on what website accessibility and I'm not exactly sure on what else I was supposed to change.
